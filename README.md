@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi Application
 
-A quick description of your strapi application
+Example of Strapi Backend API deployed to Google Cloud Platform
